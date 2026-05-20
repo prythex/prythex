@@ -6,7 +6,7 @@
 
 After five years of writing JavaScript for a living, I've spent most of that time on SaaS, fintech and B2B products for teams in the US and Europe. I care about software that makes it to real users — not slide decks. Most of my day is split between Next.js on the frontend, Node/Nest on the backend, and PostgreSQL underneath it all.
 
-I'm based in Lviv, Ukraine and work remotely. Comfortable with CET and EST overlap, equally happy as a sole engineer on an MVP or as part of a senior squad.
+I work fully remote, comfortable with CET and EST overlap, and equally happy as a sole engineer on an MVP or as part of a senior squad.
 
 ## My toolbox
 
